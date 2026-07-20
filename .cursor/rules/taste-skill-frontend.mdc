@@ -1,0 +1,29 @@
+---
+description: On any frontend UI work, read and follow Taste Skill (design-taste-frontend)
+alwaysApply: true
+---
+
+# Taste Skill — required for frontend changes
+
+Whenever you create, edit, redesign, or style frontend/UI (components, pages, layouts, CSS, landing pages, marketing surfaces, visual polish):
+
+1. **Read first** (before writing UI code):
+   `.cursor/skills/design-taste-frontend/SKILL.md`
+2. **Follow that skill fully** — brief inference, design direction, anti-slop rules, pre-flight check.
+3. Do not ship generic AI UI (Inter/Roboto defaults, purple gradients, card soup, placeholder sections).
+
+Skip this rule for pure backend, infra, docs-only, or non-UI tasks.
+
+## Companion skills (use when the task matches)
+
+| Situation | Skill path |
+| --- | --- |
+| Default / greenfield UI | `.cursor/skills/design-taste-frontend/SKILL.md` |
+| Existing UI redesign / audit | `.cursor/skills/redesign-existing-projects/SKILL.md` |
+| Soft / premium calm look | `.cursor/skills/high-end-visual-design/SKILL.md` |
+| Minimalist / editorial | `.cursor/skills/minimalist-ui/SKILL.md` |
+| Brutalist / industrial | `.cursor/skills/industrial-brutalist-ui/SKILL.md` |
+| Image → code pipeline | `.cursor/skills/image-to-code/SKILL.md` |
+| Incomplete / truncated output | `.cursor/skills/full-output-enforcement/SKILL.md` |
+
+Default is always **design-taste-frontend**. Add a companion only when the request clearly needs it.
