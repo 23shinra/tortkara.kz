@@ -1,0 +1,36 @@
+/var/www/tortkara.esl.kz/scripts/make-catalog-previews.py:75: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  pixels = list(sample.getdata())
+[xcmg-xr160] load /var/www/tortkara.esl.kz/public/products/xcmg-xr160/01.jpg
+[xcmg-xr160] rembg…
+[xcmg-xr160] -> /var/www/tortkara.esl.kz/public/products/xcmg-xr160/catalog-preview.png (683 KB)
+[xcmg-xr200] load /var/www/tortkara.esl.kz/public/products/xcmg-xr200/01.jpg
+[xcmg-xr200] rembg…
+[xcmg-xr200] -> /var/www/tortkara.esl.kz/public/products/xcmg-xr200/catalog-preview.png (701 KB)
+[xcmg-xr220] load /var/www/tortkara.esl.kz/public/products/xcmg-xr220/02.jpg
+[xcmg-xr220] rembg…
+[xcmg-xr220] -> /var/www/tortkara.esl.kz/public/products/xcmg-xr220/catalog-preview.png (94 KB)
+[xcmg-xr240] load /var/www/tortkara.esl.kz/public/products/xcmg-xr240/04.jpg
+[xcmg-xr240] rembg…
+[xcmg-xr240] -> /var/www/tortkara.esl.kz/public/products/xcmg-xr240/catalog-preview.png (557 KB)
+[xcmg-xr280] load /var/www/tortkara.esl.kz/public/products/xcmg-xr280/04.jpg
+[xcmg-xr280] rembg…
+[xcmg-xr280] -> /var/www/tortkara.esl.kz/public/products/xcmg-xr280/catalog-preview.png (610 KB)
+[xcmg-xr360] load /var/www/tortkara.esl.kz/public/products/xcmg-xr360/06.jpg
+[xcmg-xr360] rembg…
+[xcmg-xr360] -> /var/www/tortkara.esl.kz/public/products/xcmg-xr360/catalog-preview.png (542 KB)
+[xcmg-xr400] load /var/www/tortkara.esl.kz/public/products/xcmg-xr400/10.jpg
+[xcmg-xr400] rembg…
+[xcmg-xr400] -> /var/www/tortkara.esl.kz/public/products/xcmg-xr400/catalog-preview.png (273 KB)
+[bauer-bg26] load /var/www/tortkara.esl.kz/public/products/bauer-bg26/05.jpg
+[bauer-bg26] rembg…
+[bauer-bg26] -> /var/www/tortkara.esl.kz/public/products/bauer-bg26/catalog-preview.png (342 KB)
+[bauer-bg30] load /var/www/tortkara.esl.kz/public/products/bauer-bg30/03.jpg
+[bauer-bg30] rembg…
+[bauer-bg30] -> /var/www/tortkara.esl.kz/public/products/bauer-bg30/catalog-preview.png (179 KB)
+[bauer-bg36] load /var/www/tortkara.esl.kz/public/products/bauer-bg36/01.jpg
+[bauer-bg36] rembg…
+[bauer-bg36] -> /var/www/tortkara.esl.kz/public/products/bauer-bg36/catalog-preview.png (1335 KB)
+[sany-sr285] load /var/www/tortkara.esl.kz/public/products/sany-sr285/03.jpg
+[sany-sr285] rembg…
+[sany-sr285] -> /var/www/tortkara.esl.kz/public/products/sany-sr285/catalog-preview.png (1093 KB)
+ALL DONE

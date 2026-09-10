@@ -1,0 +1,633 @@
+{
+  "meta": {
+    "titleDefault": "Tortkara Machinery — rotary drilling and pile-driving rigs for lease",
+    "titleTemplate": "%s · Tortkara Machinery",
+    "description": "Lease new and used rotary drilling and pile-driving equipment in Kazakhstan. 30% down payment, term up to 3 years. 5 years on the market. Almaty.",
+    "ogTitle": "Tortkara Machinery — rotary drilling and pile-driving rigs for lease"
+  },
+  "nav": {
+    "catalog": "Catalogue",
+    "rigs": "Drilling rigs",
+    "equipment": "Equipment",
+    "drillingToolsShort": "Drilling tools",
+    "assortment": "Gallery",
+    "terms": "Leasing terms",
+    "reviews": "Reviews",
+    "apply": "Submit an application",
+    "contacts": "Contacts",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "leaveApply": "Submit an application",
+    "logoAlt": "Tortkara Machinery — logo",
+    "whatsappAria": "Message us on WhatsApp",
+    "about": "Company",
+    "instagramAria": "Open Instagram"
+  },
+  "common": {
+    "close": "Close",
+    "call": "Call",
+    "callPhone": "Call {phone}",
+    "whatsapp": "WhatsApp",
+    "apply": "Submit an application",
+    "home": "Home",
+    "director": "Director",
+    "navigation": "Navigation",
+    "contacts": "Contacts",
+    "bin": "BIN",
+    "iik": "IIK",
+    "photoOnRequest": "Photo on request",
+    "photosOnRequest": "Photos on request",
+    "photoN": "Photo {n}",
+    "photoAlt": "{title} — photo {n}",
+    "more": "More details",
+    "depth": "Depth",
+    "diameter": "Diameter",
+    "leaseMore": "Learn more about leasing",
+    "openChat": "Open chat",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "prevPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "photoOf": "{current} / {total}",
+    "instagram": "Instagram"
+  },
+  "company": {
+    "tagline": "We provide services for your business",
+    "about": "Tortkara Machinery LLP — 5 years on the market. Leasing of rotary drilling and pile-driving equipment — new and used: 30% down payment, term up to 3 years. Machine selection for the job site and deal support from application to handover.",
+    "address": "Republic of Kazakhstan, Almaty, 108 Yesenov Street",
+    "bank": "Bank CenterCredit JSC, Almaty"
+  },
+  "home": {
+    "heroAlt": "Rotary drilling rig on site",
+    "heroLead": "Rotary drilling and pile-driving equipment for lease, matched to your site: we select the machine, agree the terms, and get it onto the pad.",
+    "ctaApply": "Submit an application",
+    "ctaTerms": "Leasing terms",
+    "statsFootnote": "* Terms for new and used equipment. The final calculation is approved individually after your application.",
+    "stats": [
+      {
+        "value": "5 years",
+        "label": "on the market"
+      },
+      {
+        "value": "new & used",
+        "label": "drilling & pile-driving"
+      },
+      {
+        "value": "30%",
+        "label": "down payment"
+      },
+      {
+        "value": "up to 3 years",
+        "label": "lease term"
+      }
+    ],
+    "catalogEyebrow": "Available now",
+    "catalogTitle": "Drilling rigs",
+    "catalogAll": "View full catalogue",
+    "processEyebrow": "Process",
+    "processTitle": "How leasing works",
+    "steps": [
+      {
+        "title": "Application",
+        "text": "Describe the machine and the job. We reply within a business day and clarify the deal."
+      },
+      {
+        "title": "Calculation",
+        "text": "We will prepare a calculation based on a 30% down payment and a term of up to 3 years. Final terms are tailored individually."
+      },
+      {
+        "title": "Agreement",
+        "text": "We will assemble the documents and agree the lease with a clear payment schedule."
+      },
+      {
+        "title": "Equipment on site",
+        "text": "After completion the equipment is handed over to your company — ready for work."
+      }
+    ],
+    "aboutEyebrow": "About the company",
+    "callCta": "Call {phone}",
+    "benefits": [
+      {
+        "title": "5 years on the market",
+        "text": "Tortkara Machinery — 5 years on the market. We select a rotary drilling or pile-driving rig for your site and support the deal from application to handover."
+      },
+      {
+        "title": "Used equipment for lease",
+        "text": "We lease not only new but also used rotary drilling and pile-driving equipment — with a 30% down payment and a term of up to 3 years."
+      },
+      {
+        "title": "Support in Almaty",
+        "text": "Office in Almaty. Reach us by phone or WhatsApp — from the first consultation to machine handover."
+      }
+    ],
+    "nextEyebrow": "Next step",
+    "nextTitle": "Need equipment on site — leave a request",
+    "nextText": "Specify the model (new or used, drilling or pile-driving) and your contacts. We will prepare a calculation and get back to you.",
+    "nextApply": "Leasing application",
+    "nextContacts": "Company details and address"
+  },
+  "catalog": {
+    "metaTitle": "Catalog of drilling and pile-driving rigs",
+    "metaDescription": "New and used rotary drilling and pile-driving rigs from XCMG, BAUER and SANY - lease from Tortkara Machinery. 30% down, up to 3 years. Almaty.",
+    "eyebrow": "Available now",
+    "title": "Catalog of drilling and pile-driving rigs",
+    "intro": "New and used rotary drilling and pile-driving equipment with specs and photos. Leave a request - we will calculate a lease: 30% down, term up to 3 years.",
+    "otherCategory": "Need another model?",
+    "writeInApply": "Tell us in your application",
+    "searchPlaceholder": "Search: model, brand, year…",
+    "allBrands": "All",
+    "empty": "No matches. Try another filter or search.",
+    "results": "{count} models",
+    "filters": "Filters",
+    "filtersMore": "More filters",
+    "resetFilters": "Reset",
+    "applyFilters": "Apply",
+    "filterCondition": "Condition",
+    "filterYear": "Year",
+    "filterPhotos": "Photos",
+    "filterDepth": "Depth",
+    "filterDiameter": "Diameter",
+    "conditionAll": "All",
+    "photosAll": "All",
+    "photosYes": "With photos",
+    "photosNo": "No photos",
+    "depthAll": "Any",
+    "depthTo60": "up to 60 m",
+    "depth60to90": "60-90 m",
+    "depthFrom90": "from 90 m",
+    "diameterAll": "Any",
+    "diameterTo1800": "up to 1800 mm",
+    "diameter1800to2200": "1800-2200 mm",
+    "diameterFrom2200": "from 2200 mm",
+    "activeFilters": "{count}",
+    "sortLabel": "Sort",
+    "sortAddedDesc": "Newest on site first",
+    "sortYearDesc": "Year of manufacture: newest",
+    "sortYearAsc": "Year of manufacture: oldest",
+    "otherCategories": "Other models",
+    "sectionRigs": "Drilling rigs",
+    "sectionRigsText": "New and used rotary drilling rigs matched to the site task.",
+    "sectionEquipment": "Drilling equipment",
+    "sectionEquipmentText": "Kelly bars, casing systems and tools for drilling and piling work.",
+    "rigAll": "All rigs",
+    "rigNew": "New",
+    "rigUsed": "Used",
+    "equipmentAll": "All equipment",
+    "equipmentType": "Equipment type",
+    "sectionLabel": "Catalog section",
+    "eqKellyBars": "Kelly bars",
+    "eqCasingOscillators": "Casing oscillators",
+    "eqCasingSystem": "Casing system",
+    "eqDrillingTools": "Drilling tools",
+    "eqFoundationTools": "Piling tools",
+    "eqCfaDds": "CFA / DDS",
+    "equipmentMetaTitle": "Drilling equipment",
+    "equipmentMetaDescription": "Kelly bars, casing oscillators, pipes, buckets, augers and other drilling equipment from Tortkara Machinery.",
+    "equipmentEyebrow": "Catalog",
+    "equipmentTitle": "Drilling equipment",
+    "equipmentIntro": "Kelly bars, casing systems and tools for drilling and piling work. Submit a request and we will match the package to your rig."
+  },
+  "product": {
+    "metaLease": "{title} for lease",
+    "metaDepth": "depth {depth}",
+    "back": "Back to catalogue",
+    "specs": "Specifications",
+    "specsEmpty": "Specifications are being confirmed",
+    "leaseBlurb": "We will calculate a lease for this machine: 30% down payment, term up to 3 years.",
+    "applyModel": "Apply for {model}",
+    "terms": "Leasing terms",
+    "related": "Related models",
+    "modelsInStock": "Models in stock",
+    "leaseVia": "Leasing via Tortkara Machinery",
+    "needCategory": "Need {title}?",
+    "applyEyebrow": "Submit an application",
+    "otherCategories": "Other categories",
+    "categoryMeta": "{title} for lease",
+    "descriptionTitle": "Description",
+    "benefitsTitle": "Benefits",
+    "variantsTitle": "Options and configuration",
+    "compatibleModelsTitle": "Compatible models",
+    "kellyCompatibility": "Available Kelly bars for the following {brand} drilling rigs:",
+    "selectionCriteriaTitle": "Selection criteria",
+    "casingOscillatorIntro": "When you need a {brand} casing oscillator:",
+    "attributesTitle": "Technical data",
+    "requestCalculation": "Get a lease calculation",
+    "orderCta": "Order",
+    "tabModel": "Model",
+    "tabDescription": "Description",
+    "tabMedia": "Photos & video",
+    "newLabel": "New",
+    "usedLabel": "Used",
+    "equipmentLabel": "Drilling equipment"
+  },
+  "assortmentPage": {
+    "metaTitle": "Gallery",
+    "metaDescription": "Photos of Tortkara Machinery rotary drilling and pile-driving fleet, attachments and yard."
+  },
+  "assortment": {
+    "eyebrow": "Gallery",
+    "title": "Drilling equipment and attachments",
+    "text": "Photos of our drilling and pile-driving fleet and attachments.",
+    "allPhotos": "All photos",
+    "toCatalog": "To catalogue"
+  },
+  "reviewsPage": {
+    "metaTitle": "Reviews",
+    "metaDescription": "Client reviews of Tortkara Machinery equipment and leasing."
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "Equipment delivered, work started",
+    "text": "Client stories about supply and leasing of drilling and pile-driving equipment.",
+    "dialog": "Client reviews"
+  },
+  "terms": {
+    "metaTitle": "Leasing terms",
+    "metaDescription": "30% down payment, term up to 3 years — leasing of rotary drilling and pile-driving equipment from Tortkara Machinery.",
+    "eyebrow": "Financing programmes",
+    "title": "Leasing terms",
+    "intro": "Leasing of rotary drilling and pile-driving equipment — new and used. Base terms: 30% down payment, term up to 3 years. Final calculation after your application.",
+    "items": [
+      {
+        "title": "Down payment",
+        "value": "30%",
+        "text": "Initial payment under the lease program. Final terms depend on the model and condition of the machine."
+      },
+      {
+        "title": "Term",
+        "value": "up to 3 years",
+        "text": "Maximum lease term is 3 years. Payment schedule is agreed individually."
+      },
+      {
+        "title": "Currency",
+        "value": "KZT",
+        "text": "Settlements in tenge. Final terms depend on the model and financial profile."
+      },
+      {
+        "title": "Asset",
+        "value": "New and used",
+        "text": "Leasing of rotary drilling and pile-driving equipment — new and used. Selected for your job site."
+      }
+    ],
+    "docsEyebrow": "Documents",
+    "docsTitle": "What you need to get started",
+    "docsIntro": "The full list depends on the amount and drilling model. Contact details and a description of your needs are enough for an initial consultation.",
+    "docs": [
+      "Registration certificate for the LLP or sole proprietor",
+      "ID of the director or authorised signatory",
+      "Company details and responsible contact",
+      "Desired drilling rig information (model and budget guide)",
+      "Financial statements on request, depending on transaction amount"
+    ],
+    "ctaTitle": "Ready to calculate your deal?",
+    "ctaText": "Submit an application and we will prepare a payment indication and confirm the document package.",
+    "ctaButton": "Submit an application"
+  },
+  "apply": {
+    "metaTitle": "Leasing application",
+    "metaDescription": "Apply for a lease of rotary drilling or pile-driving equipment from Tortkara Machinery. 30% down payment, term up to 3 years.",
+    "eyebrow": "Submit an application",
+    "title": "Submit an application",
+    "intro": "Complete the form and send it by email or WhatsApp. You can also call:",
+    "quick": "Quick contact",
+    "phone": "Phone",
+    "whatsappNow": "message now",
+    "address": "Address",
+    "whatEyebrow": "What to include",
+    "whatText": "Model (new or used, drilling or pile-driving), budget range, and operating city. The more precise the data, the faster the calculation."
+  },
+  "contacts": {
+    "metaTitle": "Contacts and company details",
+    "metaDescription": "Address, telephone, and bank details of Tortkara Machinery in Almaty.",
+    "eyebrow": "Contacts",
+    "title": "Office and company details",
+    "linkEyebrow": "Contact",
+    "address": "Address",
+    "openMap": "Open on map",
+    "mapLabel": "Tortkara Machinery office on the map",
+    "call": "Call",
+    "requisites": "Company details",
+    "labels": {
+      "name": "Legal name",
+      "bin": "BIN",
+      "bik": "BIC",
+      "iik": "IIK",
+      "bank": "Bank",
+      "legalAddress": "Legal address",
+      "director": "Director",
+      "phone": "Phone"
+    }
+  },
+  "form": {
+    "name": "Name",
+    "namePh": "How should we address you",
+    "org": "Company",
+    "orgPh": "LLP / sole proprietor",
+    "phone": "Phone",
+    "phonePh": "+7 ___ ___ __ __",
+    "model": "Equipment model",
+    "selectModel": "Select a model",
+    "otherTech": "Another model",
+    "comment": "Comment",
+    "commentPh": "Model, budget, term, delivery city",
+    "submitEmail": "Send by email",
+    "submitWhatsapp": "Message on WhatsApp",
+    "disclaimer": "The application will open in your email client or WhatsApp. We will call {phone} to clarify the terms. The final calculation is individual.",
+    "msgTitle": "Leasing application — Tortkara Machinery",
+    "msgName": "Name",
+    "msgOrg": "Company",
+    "msgPhone": "Phone",
+    "msgTech": "Equipment",
+    "msgComment": "Comment",
+    "msgNotSpecified": "not specified",
+    "mailSubject": "Leasing application — Tortkara Machinery"
+  },
+  "specs": {
+    "year": "Year",
+    "condition": "Condition",
+    "mast": "Mast",
+    "depth": "Depth",
+    "diameter": "Diameter",
+    "engine": "Engine",
+    "power": "Power",
+    "weight": "Weight",
+    "transport": "Transport length",
+    "kelly": "Kelly bar",
+    "conditions": {
+      "refurbished": "Refurbished",
+      "notRefurbished": "Not refurbished"
+    },
+    "mastCable": "Cable mast"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "This page does not exist or has been moved.",
+    "home": "Go home"
+  },
+  "footer": {
+    "catalog": "Catalogue",
+    "assortment": "Gallery",
+    "terms": "Leasing terms",
+    "reviews": "Reviews",
+    "apply": "Submit an application",
+    "contacts": "Contacts",
+    "about": "About us"
+  },
+  "categories": {
+    "ekskavatory": {
+      "title": "Excavators",
+      "short": "Tracked and wheeled",
+      "description": "Tortkara Machinery leases rotary drilling and pile-driving equipment — new and used. We select a machine for your site and prepare a calculation: 30% down, term up to 3 years.",
+      "imageAlt": "Excavators — on site"
+    },
+    "frontalnye-pogruzchiki": {
+      "title": "Wheel loaders",
+      "short": "Loading and handling",
+      "description": "Tortkara Machinery leases rotary drilling and pile-driving equipment — new and used. We select a machine for your site and prepare a calculation: 30% down, term up to 3 years.",
+      "imageAlt": "Wheel loaders — on site"
+    },
+    "ekskavatory-pogruzchiki": {
+      "title": "Backhoe loaders",
+      "short": "Versatile equipment",
+      "description": "Tortkara Machinery leases rotary drilling and pile-driving equipment — new and used. We select a machine for your site and prepare a calculation: 30% down, term up to 3 years.",
+      "imageAlt": "Backhoe loaders — on site"
+    },
+    "teleskopicheskie-pogruzchiki": {
+      "title": "Telehandlers",
+      "short": "Reach and precision",
+      "description": "Tortkara Machinery leases rotary drilling and pile-driving equipment — new and used. We select a machine for your site and prepare a calculation: 30% down, term up to 3 years.",
+      "imageAlt": "Telehandlers — on site"
+    },
+    "tyagachi": {
+      "title": "Tractor units",
+      "short": "Long-haul transport",
+      "description": "Tortkara Machinery leases rotary drilling and pile-driving equipment — new and used. We select a machine for your site and prepare a calculation: 30% down, term up to 3 years.",
+      "imageAlt": "Tractor units — on site"
+    },
+    "samosvaly": {
+      "title": "Dump trucks",
+      "short": "Bulk haulage",
+      "description": "Tortkara Machinery leases rotary drilling and pile-driving equipment — new and used. We select a machine for your site and prepare a calculation: 30% down, term up to 3 years.",
+      "imageAlt": "Dump trucks — on site"
+    },
+    "burovye-ustanovki": {
+      "title": "Drilling & pile-driving",
+      "short": "Wells and foundations",
+      "description": "New and used rotary drilling and pile-driving rigs for foundation and infrastructure projects. Lease: 30% down, term up to 3 years.",
+      "imageAlt": "Drilling rigs — on site"
+    },
+    "miksery": {
+      "title": "Concrete mixers",
+      "short": "Concrete on site",
+      "description": "Tortkara Machinery leases rotary drilling and pile-driving equipment — new and used. We select a machine for your site and prepare a calculation: 30% down, term up to 3 years.",
+      "imageAlt": "Concrete mixers — on site"
+    },
+    "drobilnoe-oborudovanie": {
+      "title": "Crushing equipment",
+      "short": "Crushing and screening",
+      "description": "Tortkara Machinery leases rotary drilling and pile-driving equipment — new and used. We select a machine for your site and prepare a calculation: 30% down, term up to 3 years.",
+      "imageAlt": "Crushing equipment — on site"
+    }
+  },
+  "reviewsItems": {
+    "ycr405e": {
+      "quote": "The rotary rig was delivered to the site without delays. The Tortkara team supported the deal from application through unloading.",
+      "role": "Contractor, Almaty",
+      "alt": "YCR405E — clients and equipment",
+      "equipment": "YCR405E"
+    },
+    "sr185-trailer": {
+      "quote": "The machine arrived on the low-loader on time. Everything was official, and the lease terms were agreed quickly.",
+      "role": "Construction company",
+      "alt": "SR185 — clients and equipment",
+      "equipment": "SR185"
+    },
+    "delivery-yard": {
+      "quote": "We leased the equipment and started on site immediately after completion. Recommended.",
+      "role": "Tortkara client",
+      "alt": "Drilling complex — clients and equipment",
+      "equipment": "Drilling complex"
+    },
+    "xr218e": {
+      "quote": "The XR218E is on site. Tortkara helped with financing and delivery — we are working.",
+      "role": "Foundation works",
+      "alt": "XR218E — clients and equipment",
+      "equipment": "XR218E"
+    },
+    "sany-sr185": {
+      "quote": "We received the SANY SR185 exactly as agreed. Thank you for the prompt service.",
+      "role": "Client, Kazakhstan",
+      "alt": "SANY SR185 — clients and equipment",
+      "equipment": "SANY SR185"
+    },
+    "thumbs-up": {
+      "quote": "The transaction was smooth: documents, equipment, and support. We will return again.",
+      "role": "Leasing partner",
+      "alt": "Equipment handover — clients and equipment",
+      "equipment": "Equipment handover"
+    }
+  },
+  "assortmentItems": {
+    "a01": {
+      "caption": "XCMG drilling-rig fleet",
+      "alt": "XCMG drilling-rig fleet"
+    },
+    "a02": {
+      "caption": "Equipment line at the site",
+      "alt": "Equipment line at the site"
+    },
+    "a03": {
+      "caption": "Tooling and drilling-tool warehouse",
+      "alt": "Tooling and drilling-tool warehouse"
+    },
+    "a04": {
+      "caption": "Drilling-tool range",
+      "alt": "Drilling-tool range"
+    },
+    "a05": {
+      "caption": "XCMG and SANY fleet at the yard",
+      "alt": "XCMG and SANY fleet at the yard"
+    },
+    "a06": {
+      "caption": "XCMG XR400E with crew",
+      "alt": "XCMG XR400E with crew"
+    },
+    "a07": {
+      "caption": "Equipment lined up and available",
+      "alt": "Equipment lined up and available"
+    },
+    "a08": {
+      "caption": "Tortkara Machinery — site and tooling",
+      "alt": "Tortkara Machinery — site and tooling"
+    },
+    "a09": {
+      "caption": "XCMG XR200E line",
+      "alt": "XCMG XR200E line"
+    },
+    "a10": {
+      "caption": "XCMG XR220D in transport position",
+      "alt": "XCMG XR220D in transport position"
+    },
+    "a11": {
+      "caption": "XCMG XR240E · SANY SR235 · XR280",
+      "alt": "XCMG XR240E · SANY SR235 · XR280"
+    },
+    "a12": {
+      "caption": "XCMG rotary-rig line",
+      "alt": "XCMG rotary-rig line"
+    },
+    "a13": {
+      "caption": "XCMG fleet at the site",
+      "alt": "XCMG fleet at the site"
+    },
+    "a14": {
+      "caption": "XCMG XR280E",
+      "alt": "XCMG XR280E"
+    },
+    "a15": {
+      "caption": "Tooling and equipment",
+      "alt": "Tooling and equipment"
+    },
+    "a16": {
+      "caption": "SANY SR285R and XCMG",
+      "alt": "SANY SR285R and XCMG"
+    },
+    "a17": {
+      "caption": "XCMG XR320E",
+      "alt": "XCMG XR320E"
+    },
+    "a18": {
+      "caption": "XCMG rig line",
+      "alt": "XCMG rig line"
+    },
+    "a19": {
+      "caption": "XCMG XR220D — fleet",
+      "alt": "XCMG XR220D — fleet"
+    }
+  },
+  "about": {
+    "metaTitle": "About the company",
+    "metaDescription": "Tortkara Machinery LLP — 5 years on the market. Lease of rotary drilling and pile-driving equipment: 30% down, up to 3 years. Almaty.",
+    "eyebrow": "Company",
+    "title": "About the company",
+    "lead": "Rotary drilling and pile-driving equipment for lease, matched to your site: we select the machine, agree the terms, and get it onto the pad.",
+    "storyEyebrow": "Who we are",
+    "storyTitle": "Your partner for drilling and pile-driving rigs",
+    "storyImageAlt": "XCMG rotary drilling rig on site",
+    "storyP1": "Tortkara Machinery LLP — 5 years on the market. We work with construction and infrastructure contractors on XCMG, BAUER and SANY rotary drilling and pile-driving equipment — new and used.",
+    "storyP2": "Our goal is a clear deal and a rig that goes to work quickly. Reach us by phone, WhatsApp or Instagram — from the first consultation to handover.",
+    "storyP3": "Need a model outside the catalog — note it in the application: we will select a drilling or pile-driving rig for your job and budget.",
+    "advantageEyebrow": "Advantage",
+    "advantageTitle": "Used equipment for lease",
+    "advantageText": "We lease not only new but also used rotary drilling and pile-driving equipment — a rare option on the market. Get on site faster without paying the full machine price upfront.",
+    "advantageDownLabel": "Down payment",
+    "advantageDownValue": "from 20%",
+    "advantageTermLabel": "Lease term",
+    "advantageTermValue": "up to 38 mo",
+    "pillarsEyebrow": "How we work",
+    "pillarsTitle": "From application to equipment on site",
+    "pillars": [
+      {
+        "title": "Request and scope",
+        "text": "Describe the site and the machine you need — new or used, drilling or pile-driving. We reply within a business day."
+      },
+      {
+        "title": "Selection and quote",
+        "text": "We match depth, diameter and budget. Calculation: 30% down payment, term up to 3 years."
+      },
+      {
+        "title": "Agreement",
+        "text": "We assemble documents and agree a lease with a clear payment schedule."
+      },
+      {
+        "title": "Handover",
+        "text": "After completion the equipment is handed over to your company — ready for work."
+      }
+    ],
+    "factsEyebrow": "Facts",
+    "facts": [
+      {
+        "value": "5 years",
+        "label": "on the market"
+      },
+      {
+        "value": "new & used",
+        "label": "drilling & pile-driving"
+      },
+      {
+        "value": "from 20%",
+        "label": "down payment"
+      },
+      {
+        "value": "up to 38 mo",
+        "label": "maximum term"
+      }
+    ],
+    "officeEyebrow": "Office",
+    "officeTitle": "Almaty",
+    "officeText": "A local office and steady contact. Lease terms, documents and delivery handled in one place.",
+    "officeAddressLabel": "Address",
+    "officePhoneLabel": "Phone",
+    "ctaTitle": "Need equipment — leave a request",
+    "ctaText": "Specify the model (new or used, drilling or pile-driving) and your contacts. We will prepare a calculation and follow up.",
+    "ctaApply": "Leave a request",
+    "ctaContacts": "Contacts and details",
+    "ctaCatalog": "View catalog",
+    "ctaTerms": "Lease terms",
+    "leaseOfferEyebrow": "Lease terms",
+    "leaseOfferTitle": "Lease for new and used equipment",
+    "leaseOfferP1": "Tortkara Machinery offers competitive lease terms for rotary drilling and pile-driving rigs with full deal support: from consultation and paperwork to equipment handover.",
+    "leaseOfferP2": "A key advantage is access to used rotary drilling and pile-driving rigs under a standard lease program. That means proven machines on clear terms without hunting for special financing schemes.",
+    "leaseOfferP3": "We work with leading leasing companies in Kazakhstan to match financing terms and keep applications moving quickly.",
+    "leaseOfferTermsTitle": "Base parameters",
+    "leaseOfferTerms": [
+      "financing term - up to 38 months",
+      "down payment - from 20%",
+      "rate - from 6% per year",
+      "available for legal entities only",
+      "lease for new and used equipment"
+    ],
+    "leaseOfferClose": "Leasing helps preserve working capital, acquire equipment without a large upfront outlay, and spread the financial load across construction and infrastructure projects."
+  }
+}

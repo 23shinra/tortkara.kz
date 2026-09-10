@@ -1,0 +1,633 @@
+{
+  "meta": {
+    "titleDefault": "Tortkara Machinery — 旋挖钻机与打桩机租赁",
+    "titleTemplate": "%s · Tortkara Machinery",
+    "description": "哈萨克斯坦旋挖钻机与打桩机租赁——新机与二手。首付30%，期限最长3年。深耕市场5年。阿拉木图。",
+    "ogTitle": "Tortkara Machinery — 旋挖钻机与打桩机租赁"
+  },
+  "nav": {
+    "catalog": "设备目录",
+    "rigs": "钻机",
+    "equipment": "钻具设备",
+    "drillingToolsShort": "钻具",
+    "assortment": "图库",
+    "terms": "租赁条件",
+    "reviews": "客户评价",
+    "apply": "提交申请",
+    "contacts": "联系方式",
+    "menu": "菜单",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "leaveApply": "提交申请",
+    "logoAlt": "Tortkara Machinery — logo",
+    "whatsappAria": "WhatsApp 联系我们",
+    "about": "公司",
+    "instagramAria": "打开 Instagram"
+  },
+  "common": {
+    "close": "关闭",
+    "call": "致电",
+    "callPhone": "拨打 {phone}",
+    "whatsapp": "WhatsApp",
+    "apply": "提交申请",
+    "home": "首页",
+    "director": "总经理",
+    "navigation": "导航",
+    "contacts": "联系方式",
+    "bin": "商业识别号",
+    "iik": "银行账户",
+    "photoOnRequest": "可应要求提供照片",
+    "photosOnRequest": "可应要求提供照片",
+    "photoN": "照片 {n}",
+    "photoAlt": "{title} — 照片 {n}",
+    "more": "了解更多",
+    "depth": "深度",
+    "diameter": "直径",
+    "leaseMore": "了解租赁详情",
+    "openChat": "打开聊天",
+    "zoomIn": "放大",
+    "zoomOut": "缩小",
+    "prevPhoto": "上一张",
+    "nextPhoto": "下一张",
+    "photoOf": "{current} / {total}",
+    "instagram": "Instagram"
+  },
+  "company": {
+    "tagline": "为您的业务提供服务",
+    "about": "Tortkara Machinery有限合伙企业——深耕市场5年。旋挖钻机与打桩机租赁——新机与二手：首付30%，期限最长3年。按工地需求选型，并从申请到交机全程跟进。",
+    "address": "哈萨克斯坦共和国，阿拉木图市叶塞诺夫街 108 号",
+    "bank": "中央信贷银行股份公司，阿拉木图"
+  },
+  "home": {
+    "heroAlt": "工地上的旋挖钻机",
+    "heroLead": "旋挖钻机与打桩机租赁，按工地需求选型：我们帮您确认条件，并将设备送至现场。",
+    "ctaApply": "提交申请",
+    "ctaTerms": "租赁条件",
+    "statsFootnote": "* 适用于新机与二手设备。最终方案将在提交申请后单独核定。",
+    "stats": [
+      {
+        "value": "5 年",
+        "label": "深耕市场"
+      },
+      {
+        "value": "新机与二手",
+        "label": "钻机与打桩机"
+      },
+      {
+        "value": "30%",
+        "label": "首付"
+      },
+      {
+        "value": "最长 3 年",
+        "label": "租赁期限"
+      }
+    ],
+    "catalogEyebrow": "现货供应",
+    "catalogTitle": "钻机",
+    "catalogAll": "查看全部目录",
+    "processEyebrow": "流程",
+    "processTitle": "融资租赁如何运作",
+    "steps": [
+      {
+        "title": "提交申请",
+        "text": "请说明所需设备和项目任务。我们将在工作日回复并确认交易参数。"
+      },
+      {
+        "title": "方案测算",
+        "text": "我们将按首付30%、期限最长3年准备测算方案，最终条件按项目个别确定。"
+      },
+      {
+        "title": "签订合同",
+        "text": "我们将准备文件并确认具有清晰还款计划的融资租赁合同。"
+      },
+      {
+        "title": "设备到场",
+        "text": "手续完成后，设备将交付给您的公司，即可开工。"
+      }
+    ],
+    "aboutEyebrow": "关于我们",
+    "callCta": "拨打 {phone}",
+    "benefits": [
+      {
+        "title": "深耕市场 5 年",
+        "text": "Tortkara Machinery——深耕市场5年。按工地需求选型钻机，并从申请到交机全程跟进。"
+      },
+      {
+        "title": "二手设备可租赁",
+        "text": "不仅新机，二手旋挖钻机与打桩机也可办理租赁——首付30%，期限最长3年。"
+      },
+      {
+        "title": "阿拉木图本地支持",
+        "text": "办公室位于阿拉木图。可通过电话或WhatsApp联系——从首次咨询到交机。"
+      }
+    ],
+    "nextEyebrow": "下一步",
+    "nextTitle": "现场需要设备？请提交申请",
+    "nextText": "请注明钻机型号（新机或二手）及联系方式。我们将准备测算方案并与您确认细节。",
+    "nextApply": "融资租赁申请",
+    "nextContacts": "公司资料与地址"
+  },
+  "catalog": {
+    "metaTitle": "钻机与打桩机目录",
+    "metaDescription": "XCMG、BAUER、SANY新机与二手钻机--Tortkara Machinery租赁。首付30%，最长3年。阿拉木图。",
+    "eyebrow": "现货供应",
+    "title": "钻机与打桩机目录",
+    "intro": "新机与二手旋挖钻机、打桩机，含参数与照片。提交申请即可测算租赁方案：首付30%，期限最长3年。",
+    "otherCategory": "需要其他型号？",
+    "writeInApply": "请在申请中说明",
+    "searchPlaceholder": "搜索：型号、品牌、年份…",
+    "allBrands": "全部",
+    "empty": "未找到结果。请调整筛选或搜索词。",
+    "results": "{count} 台设备",
+    "filters": "筛选",
+    "filtersMore": "更多筛选",
+    "resetFilters": "重置",
+    "applyFilters": "应用",
+    "filterCondition": "成色",
+    "filterYear": "年份",
+    "filterPhotos": "照片",
+    "filterDepth": "深度",
+    "filterDiameter": "直径",
+    "conditionAll": "全部",
+    "photosAll": "全部",
+    "photosYes": "有照片",
+    "photosNo": "无照片",
+    "depthAll": "不限",
+    "depthTo60": "60 米以内",
+    "depth60to90": "60-90 米",
+    "depthFrom90": "90 米以上",
+    "diameterAll": "不限",
+    "diameterTo1800": "1800 毫米以内",
+    "diameter1800to2200": "1800-2200 毫米",
+    "diameterFrom2200": "2200 毫米以上",
+    "activeFilters": "{count}",
+    "sortLabel": "排序",
+    "sortAddedDesc": "网站最新优先",
+    "sortYearDesc": "出厂年份：较新",
+    "sortYearAsc": "出厂年份：较旧",
+    "otherCategories": "其他型号",
+    "sectionRigs": "钻机设备",
+    "sectionRigsText": "按工地任务选配的新机与二手旋挖钻机。",
+    "sectionEquipment": "钻具与配套设备",
+    "sectionEquipmentText": "方钻杆、套管系统以及钻孔和桩基施工工具。",
+    "rigAll": "全部钻机",
+    "rigNew": "新机",
+    "rigUsed": "二手",
+    "equipmentAll": "全部设备",
+    "equipmentType": "设备类型",
+    "sectionLabel": "目录分类",
+    "eqKellyBars": "方钻杆",
+    "eqCasingOscillators": "全回转套管机",
+    "eqCasingSystem": "套管系统",
+    "eqDrillingTools": "钻具",
+    "eqFoundationTools": "桩基工具",
+    "eqCfaDds": "CFA / DDS",
+    "equipmentMetaTitle": "钻具与配套设备",
+    "equipmentMetaDescription": "方钻杆、全回转套管机、套管、钻斗、螺旋钻具等钻具与配套设备 - Tortkara Machinery。",
+    "equipmentEyebrow": "目录",
+    "equipmentTitle": "钻具与配套设备",
+    "equipmentIntro": "方钻杆、套管系统以及钻孔和桩基施工工具。提交申请后，我们将按您的钻机匹配配置。"
+  },
+  "product": {
+    "metaLease": "{title}租赁",
+    "metaDepth": "深度 {depth}",
+    "back": "返回目录",
+    "specs": "技术参数",
+    "specsEmpty": "技术参数待确认",
+    "leaseBlurb": "我们将为该设备测算租赁方案：首付30%，期限最长3年。",
+    "applyModel": "申请 {model}",
+    "terms": "租赁条件",
+    "related": "相关型号",
+    "modelsInStock": "现货型号",
+    "leaseVia": "通过 Tortkara Machinery 融资租赁",
+    "needCategory": "需要{title}吗？",
+    "applyEyebrow": "提交申请",
+    "otherCategories": "其他类别",
+    "categoryMeta": "{title}租赁",
+    "descriptionTitle": "产品说明",
+    "benefitsTitle": "产品优势",
+    "variantsTitle": "型号与配置",
+    "compatibleModelsTitle": "兼容机型",
+    "kellyCompatibility": "适用于以下 {brand} 旋挖钻机的方钻杆：",
+    "selectionCriteriaTitle": "选型条件",
+    "casingOscillatorIntro": "何时需要 {brand} 全回转套管机：",
+    "attributesTitle": "技术数据",
+    "requestCalculation": "获取租赁测算",
+    "orderCta": "订购",
+    "tabModel": "型号",
+    "tabDescription": "说明",
+    "tabMedia": "照片与视频",
+    "newLabel": "新机",
+    "usedLabel": "二手",
+    "equipmentLabel": "钻具与配套设备"
+  },
+  "assortmentPage": {
+    "metaTitle": "图库",
+    "metaDescription": "Tortkara Machinery旋挖钻机、打桩设备、属具与场地照片。"
+  },
+  "assortment": {
+    "eyebrow": "图库",
+    "title": "钻机设备与属具",
+    "text": "我们的钻机、打桩设备及属具照片。",
+    "allPhotos": "全部照片",
+    "toCatalog": "前往目录"
+  },
+  "reviewsPage": {
+    "metaTitle": "客户评价",
+    "metaDescription": "客户对 Tortkara Machinery 设备和租赁服务的评价。"
+  },
+  "reviews": {
+    "eyebrow": "客户评价",
+    "title": "设备已交付，项目已开工",
+    "text": "几则客户关于设备交付和融资租赁的故事。",
+    "dialog": "客户评价"
+  },
+  "terms": {
+    "metaTitle": "租赁条件",
+    "metaDescription": "首付30%，期限最长3年——Tortkara Machinery新机与二手钻机租赁。",
+    "eyebrow": "融资方案",
+    "title": "租赁条件",
+    "intro": "旋挖钻机与打桩机租赁——新机与二手。基础条件：首付30%，期限最长3年。最终方案在提交申请后确定。",
+    "items": [
+      {
+        "title": "首付",
+        "value": "30%",
+        "text": "租赁方案的首期付款。最终条件取决于机型与设备状况。"
+      },
+      {
+        "title": "期限",
+        "value": "最长 3 年",
+        "text": "租赁最长期限为3年。还款计划将单独协商。"
+      },
+      {
+        "title": "币种",
+        "value": "KZT",
+        "text": "以坚戈结算。最终条件取决于机型与财务情况。"
+      },
+      {
+        "title": "标的",
+        "value": "新机与二手",
+        "text": "旋挖钻机与打桩机租赁——新机与二手。按工地需求选型。"
+      }
+    ],
+    "docsEyebrow": "所需文件",
+    "docsTitle": "启动所需材料",
+    "docsIntro": "完整清单取决于交易金额和设备类型。首次咨询只需联系方式和需求说明。",
+    "docs": [
+      "有限责任合伙企业或个体经营者的注册证明",
+      "负责人或签字人的身份证明",
+      "公司资料及负责人的联系方式",
+      "所需设备信息（类别和预算参考）",
+      "财务报表将根据交易金额另行要求"
+    ],
+    "ctaTitle": "准备测算您的方案吗？",
+    "ctaText": "提交申请，我们将提供还款初步测算并确认文件清单。",
+    "ctaButton": "提交申请"
+  },
+  "apply": {
+    "metaTitle": "融资租赁申请",
+    "metaDescription": "申请Tortkara Machinery新机或二手钻机租赁。首付30%，期限最长3年。",
+    "eyebrow": "提交申请",
+    "title": "提交申请",
+    "intro": "填写表单后可通过电子邮件或 WhatsApp 发送。您也可以致电：",
+    "quick": "快速联系",
+    "phone": "电话",
+    "whatsappNow": "立即联系",
+    "address": "地址",
+    "whatEyebrow": "需要说明的内容",
+    "whatText": "钻机型号（新机或二手）、预算区间、使用城市。信息越准确，测算越快。"
+  },
+  "contacts": {
+    "metaTitle": "联系方式与公司资料",
+    "metaDescription": "Tortkara Machinery 在阿拉木图的地址、电话和银行资料。",
+    "eyebrow": "联系方式",
+    "title": "办公室与公司资料",
+    "linkEyebrow": "联系",
+    "address": "地址",
+    "openMap": "在地图上打开",
+    "mapLabel": "Tortkara Machinery 办公室地图",
+    "call": "致电",
+    "requisites": "公司资料",
+    "labels": {
+      "name": "名称",
+      "bin": "商业识别号",
+      "bik": "银行代码",
+      "iik": "银行账户",
+      "bank": "银行",
+      "legalAddress": "法定地址",
+      "director": "总经理",
+      "phone": "电话"
+    }
+  },
+  "form": {
+    "name": "姓名",
+    "namePh": "如何称呼您",
+    "org": "公司",
+    "orgPh": "有限责任合伙企业 / 个体经营者",
+    "phone": "电话",
+    "phonePh": "+7 ___ ___ __ __",
+    "model": "钻机型号",
+    "selectModel": "选择型号",
+    "otherTech": "其他钻机型号",
+    "comment": "备注",
+    "commentPh": "型号、预算、期限、交付城市",
+    "submitEmail": "发送至电子邮件",
+    "submitWhatsapp": "通过 WhatsApp 联系",
+    "disclaimer": "申请将通过电子邮件客户端或 WhatsApp 打开。我们将致电 {phone} 确认条件。最终测算按项目单独进行。",
+    "msgTitle": "Leasing application — Tortkara Machinery",
+    "msgName": "Name",
+    "msgOrg": "Company",
+    "msgPhone": "Phone",
+    "msgTech": "Equipment",
+    "msgComment": "Comment",
+    "msgNotSpecified": "未说明",
+    "mailSubject": "Leasing application — Tortkara Machinery"
+  },
+  "specs": {
+    "year": "年份",
+    "condition": "状况",
+    "mast": "桅杆",
+    "depth": "深度",
+    "diameter": "直径",
+    "engine": "发动机",
+    "power": "功率",
+    "weight": "重量",
+    "transport": "运输长度",
+    "kelly": "凯利杆",
+    "conditions": {
+      "refurbished": "翻新",
+      "notRefurbished": "未翻新"
+    },
+    "mastCable": "钢丝绳桅杆"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "text": "该页面不存在或已被移动。",
+    "home": "返回首页"
+  },
+  "footer": {
+    "catalog": "设备目录",
+    "assortment": "图库",
+    "terms": "租赁条件",
+    "reviews": "客户评价",
+    "apply": "提交申请",
+    "contacts": "联系方式",
+    "about": "关于我们"
+  },
+  "categories": {
+    "ekskavatory": {
+      "title": "挖掘机",
+      "short": "履带式和轮式",
+      "description": "Tortkara Machinery仅租赁旋挖钻机与打桩机——新机与二手。我们将按工地需求选型，并准备测算方案：首付30%，期限最长3年。",
+      "imageAlt": "挖掘机 — 施工现场设备"
+    },
+    "frontalnye-pogruzchiki": {
+      "title": "装载机",
+      "short": "装载与转运",
+      "description": "Tortkara Machinery仅租赁旋挖钻机与打桩机——新机与二手。我们将按工地需求选型，并准备测算方案：首付30%，期限最长3年。",
+      "imageAlt": "装载机 — 施工现场设备"
+    },
+    "ekskavatory-pogruzchiki": {
+      "title": "挖掘装载机",
+      "short": "多用途设备",
+      "description": "Tortkara Machinery仅租赁旋挖钻机与打桩机——新机与二手。我们将按工地需求选型，并准备测算方案：首付30%，期限最长3年。",
+      "imageAlt": "挖掘装载机 — 施工现场设备"
+    },
+    "teleskopicheskie-pogruzchiki": {
+      "title": "伸缩臂叉装车",
+      "short": "高度与精度",
+      "description": "Tortkara Machinery仅租赁旋挖钻机与打桩机——新机与二手。我们将按工地需求选型，并准备测算方案：首付30%，期限最长3年。",
+      "imageAlt": "伸缩臂叉装车 — 施工现场设备"
+    },
+    "tyagachi": {
+      "title": "牵引车",
+      "short": "长途运输",
+      "description": "Tortkara Machinery仅租赁旋挖钻机与打桩机——新机与二手。我们将按工地需求选型，并准备测算方案：首付30%，期限最长3年。",
+      "imageAlt": "牵引车 — 施工现场设备"
+    },
+    "samosvaly": {
+      "title": "自卸车",
+      "short": "散料运输",
+      "description": "Tortkara Machinery仅租赁旋挖钻机与打桩机——新机与二手。我们将按工地需求选型，并准备测算方案：首付30%，期限最长3年。",
+      "imageAlt": "自卸车 — 施工现场设备"
+    },
+    "burovye-ustanovki": {
+      "title": "钻机与打桩机",
+      "short": "桩基与基础",
+      "description": "用于基础与基建项目的新机与二手旋挖钻机、打桩机。租赁条件：首付30%，期限最长3年。",
+      "imageAlt": "旋挖钻机 — 施工现场设备"
+    },
+    "miksery": {
+      "title": "混凝土搅拌车",
+      "short": "现场混凝土",
+      "description": "Tortkara Machinery仅租赁旋挖钻机与打桩机——新机与二手。我们将按工地需求选型，并准备测算方案：首付30%，期限最长3年。",
+      "imageAlt": "混凝土搅拌车 — 施工现场设备"
+    },
+    "drobilnoe-oborudovanie": {
+      "title": "破碎设备",
+      "short": "破碎与筛分",
+      "description": "Tortkara Machinery仅租赁旋挖钻机与打桩机——新机与二手。我们将按工地需求选型，并准备测算方案：首付30%，期限最长3年。",
+      "imageAlt": "破碎设备 — 施工现场设备"
+    }
+  },
+  "reviewsItems": {
+    "ycr405e": {
+      "quote": "旋挖钻机按时交付现场。Tortkara 团队从申请到卸货全程跟进交易。",
+      "role": "承包商，阿拉木图",
+      "alt": "YCR405E — 客户与设备",
+      "equipment": "YCR405E"
+    },
+    "sr185-trailer": {
+      "quote": "设备按时通过低平板车送达。手续正规，租赁条件很快达成一致。",
+      "role": "建筑公司",
+      "alt": "SR185 — 客户与设备",
+      "equipment": "SR185"
+    },
+    "delivery-yard": {
+      "quote": "我们通过融资租赁取得设备，手续完成后立即进场施工。值得推荐。",
+      "role": "Tortkara 客户",
+      "alt": "钻井设备组合 — 客户与设备",
+      "equipment": "钻井设备组合"
+    },
+    "xr218e": {
+      "quote": "XR218E 已到达现场。Tortkara 协助完成融资和交付，我们已开始作业。",
+      "role": "基础工程",
+      "alt": "XR218E — 客户与设备",
+      "equipment": "XR218E"
+    },
+    "sany-sr185": {
+      "quote": "我们收到了 SANY SR185，设备与约定一致。感谢高效服务。",
+      "role": "客户，哈萨克斯坦",
+      "alt": "SANY SR185 — 客户与设备",
+      "equipment": "SANY SR185"
+    },
+    "thumbs-up": {
+      "quote": "交易过程很顺利：文件、设备和支持都很到位。我们还会再次合作。",
+      "role": "融资租赁合作伙伴",
+      "alt": "设备交付 — 客户与设备",
+      "equipment": "设备交付"
+    }
+  },
+  "assortmentItems": {
+    "a01": {
+      "caption": "XCMG 钻机设备阵容",
+      "alt": "XCMG 钻机设备阵容"
+    },
+    "a02": {
+      "caption": "现场设备阵容",
+      "alt": "现场设备阵容"
+    },
+    "a03": {
+      "caption": "机具和钻具仓库",
+      "alt": "机具和钻具仓库"
+    },
+    "a04": {
+      "caption": "钻具产品系列",
+      "alt": "钻具产品系列"
+    },
+    "a05": {
+      "caption": "场内 XCMG 和 SANY 设备阵容",
+      "alt": "场内 XCMG 和 SANY 设备阵容"
+    },
+    "a06": {
+      "caption": "XCMG XR400E 与施工团队",
+      "alt": "XCMG XR400E 与施工团队"
+    },
+    "a07": {
+      "caption": "设备整齐列队，现货供应",
+      "alt": "设备整齐列队，现货供应"
+    },
+    "a08": {
+      "caption": "Tortkara Machinery — 场地与机具",
+      "alt": "Tortkara Machinery — 场地与机具"
+    },
+    "a09": {
+      "caption": "XCMG XR200E 设备列队",
+      "alt": "XCMG XR200E 设备列队"
+    },
+    "a10": {
+      "caption": "XCMG XR220D 运输状态",
+      "alt": "XCMG XR220D 运输状态"
+    },
+    "a11": {
+      "caption": "XCMG XR240E · SANY SR235 · XR280",
+      "alt": "XCMG XR240E · SANY SR235 · XR280"
+    },
+    "a12": {
+      "caption": "XCMG 旋挖钻机系列",
+      "alt": "XCMG 旋挖钻机系列"
+    },
+    "a13": {
+      "caption": "现场 XCMG 设备阵容",
+      "alt": "现场 XCMG 设备阵容"
+    },
+    "a14": {
+      "caption": "XCMG XR280E",
+      "alt": "XCMG XR280E"
+    },
+    "a15": {
+      "caption": "机具和设备",
+      "alt": "机具和设备"
+    },
+    "a16": {
+      "caption": "SANY SR285R 和 XCMG",
+      "alt": "SANY SR285R 和 XCMG"
+    },
+    "a17": {
+      "caption": "XCMG XR320E",
+      "alt": "XCMG XR320E"
+    },
+    "a18": {
+      "caption": "XCMG 设备列队",
+      "alt": "XCMG 设备列队"
+    },
+    "a19": {
+      "caption": "XCMG XR220D — 设备阵容",
+      "alt": "XCMG XR220D — 设备阵容"
+    }
+  },
+  "about": {
+    "metaTitle": "关于公司",
+    "metaDescription": "Tortkara Machinery——深耕市场5年。新机与二手钻机租赁：首付30%，期限最长3年。办公室位于阿拉木图。",
+    "eyebrow": "公司",
+    "title": "关于公司",
+    "lead": "旋挖钻机与打桩机租赁，按工地需求选型：我们帮您确认条件，并将设备送至现场。",
+    "storyEyebrow": "我们是谁",
+    "storyTitle": "钻机与打桩机合作伙伴",
+    "storyImageAlt": "工地上的XCMG旋挖钻机",
+    "storyP1": "Tortkara Machinery有限合伙企业——深耕市场5年。我们与建筑和基建承包商合作，提供XCMG、BAUER和SANY旋挖钻机——新机与二手。",
+    "storyP2": "我们的目标是让交易清晰透明，并尽快让设备投入作业。可通过电话、WhatsApp和Instagram联系——从首次咨询到交机。",
+    "storyP3": "如需目录外机型，请在申请中注明：我们将按深度、直径、负载和预算选型。",
+    "advantageEyebrow": "优势",
+    "advantageTitle": "二手设备可租赁",
+    "advantageText": "不仅新机，二手钻机也可办理租赁——市场上少见的模式。无需一次性付清全款即可更快进场施工。",
+    "advantageDownLabel": "首付",
+    "advantageDownValue": "从 20% 起",
+    "advantageTermLabel": "租赁期限",
+    "advantageTermValue": "最长 38 个月",
+    "pillarsEyebrow": "合作流程",
+    "pillarsTitle": "从申请到设备进场",
+    "pillars": [
+      {
+        "title": "申请与需求",
+        "text": "说明工地与所需钻机——新机或二手。我们将在工作日内回复并确认细节。"
+      },
+      {
+        "title": "选型与测算",
+        "text": "按深度、直径和预算选型。测算方案：首付30%，期限最长3年。"
+      },
+      {
+        "title": "合同",
+        "text": "整理文件并签订租赁合同，还款计划清晰明确。"
+      },
+      {
+        "title": "交机",
+        "text": "手续完成后设备交付贵司——即可投入作业。"
+      }
+    ],
+    "factsEyebrow": "数据",
+    "facts": [
+      {
+        "value": "5 年",
+        "label": "深耕市场"
+      },
+      {
+        "value": "新机与二手",
+        "label": "钻机与打桩机"
+      },
+      {
+        "value": "从 20% 起",
+        "label": "首付"
+      },
+      {
+        "value": "最长 38 个月",
+        "label": "最长期限"
+      }
+    ],
+    "officeEyebrow": "办公室",
+    "officeTitle": "阿拉木图",
+    "officeText": "本地办公室与稳定联系。租赁条件、文件与交付在同一渠道处理。",
+    "officeAddressLabel": "地址",
+    "officePhoneLabel": "电话",
+    "ctaTitle": "需要设备——提交申请",
+    "ctaText": "请注明机型（新机或二手）及联系方式。我们将准备测算方案并与您确认。",
+    "ctaApply": "提交申请",
+    "ctaContacts": "联系方式与资料",
+    "ctaCatalog": "查看目录",
+    "ctaTerms": "租赁条件",
+    "leaseOfferEyebrow": "租赁条件",
+    "leaseOfferTitle": "新机与二手设备租赁",
+    "leaseOfferP1": "Tortkara Machinery 为旋挖钻机和打桩设备提供有竞争力的租赁条件，并提供全流程交易支持：从咨询、文件准备到设备交接。",
+    "leaseOfferP2": "核心优势之一，是可按标准租赁方案获取二手旋挖钻机和打桩设备。这意味着可在清晰条件下获得经核实的设备，无需另行寻找特殊融资方案。",
+    "leaseOfferP3": "我们与哈萨克斯坦主要租赁公司合作，协助匹配融资条件并加快申请审核。",
+    "leaseOfferTermsTitle": "基础参数",
+    "leaseOfferTerms": [
+      "融资期限 - 最长 38 个月",
+      "首付 - 从 20% 起",
+      "利率 - 年化从 6% 起",
+      "仅面向法人客户办理",
+      "支持新机与二手设备租赁"
+    ],
+    "leaseOfferClose": "租赁有助于保留营运资金，无需大额一次性支出即可获得设备，并在建筑与基础设施项目中分摊财务压力。"
+  }
+}

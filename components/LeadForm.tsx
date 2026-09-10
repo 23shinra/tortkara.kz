@@ -2,13 +2,13 @@
 
 import { FormEvent, useMemo, useState } from "react";
 import { buildMailtoLead, buildWhatsAppLead, company } from "@/lib/company";
-import { products } from "@/lib/products";
 
 type LeadFormProps = {
   defaultCategory?: string;
+  productOptions?: { slug: string; title: string }[];
 };
 
-export function LeadForm({ defaultCategory = "" }: LeadFormProps) {
+export function LeadForm({ defaultCategory = "", productOptions = [] }: LeadFormProps) {
   const [name, setName] = useState("");
   const [org, setOrg] = useState("");
   const [phone, setPhone] = useState("");
@@ -91,7 +91,7 @@ export function LeadForm({ defaultCategory = "" }: LeadFormProps) {
             onChange={(e) => setCategory(e.target.value)}
           >
             <option value="">Выберите модель</option>
-            {products.map((p) => (
+            {productOptions.map((p) => (
               <option key={p.slug} value={p.title}>
                 {p.title}
               </option>

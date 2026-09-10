@@ -17,8 +17,8 @@ export const assortmentPhotos: AssortmentPhoto[] = [
   {
     id: "a02",
     src: "/assortment/02.png",
-    caption: "Линейка техники на площадке",
-    alt: "Линейка техники на площадке",
+    caption: "Линейка буровых на площадке",
+    alt: "Линейка буровых на площадке",
     orientation: "portrait",
   },
   {
@@ -52,8 +52,8 @@ export const assortmentPhotos: AssortmentPhoto[] = [
   {
     id: "a07",
     src: "/assortment/07.png",
-    caption: "Строй рядами — техника в наличии",
-    alt: "Строй рядами — техника в наличии",
+    caption: "Строй рядами — буровые в наличии",
+    alt: "Строй рядами — буровые в наличии",
     orientation: "landscape",
   },
   {

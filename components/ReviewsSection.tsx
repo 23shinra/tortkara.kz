@@ -31,7 +31,7 @@ export function ReviewsSection() {
             Техника на объекте — фото от клиентов
           </h2>
           <p className="mt-3 max-w-2xl text-sm leading-relaxed text-text-muted sm:mt-4 sm:text-base">
-            Передачи буровых установок и спецтехники. Реальные сделки Tortkara Machinery.
+            Передачи буровых и сваебойных установок. Реальные сделки Tortkara Machinery.
           </p>
         </Reveal>
 
@@ -43,11 +43,7 @@ export function ReviewsSection() {
                 onClick={() => setActive(review)}
                 className="group relative block h-full w-full overflow-hidden border border-line bg-surface text-left"
               >
-                <div
-                  className={`relative w-full ${
-                    review.orientation === "portrait" ? "aspect-[3/4]" : "aspect-[4/3]"
-                  }`}
-                >
+                <div className="relative w-full aspect-[4/5]">
                   <Image
                     src={review.image}
                     alt={review.alt}
@@ -74,7 +70,7 @@ export function ReviewsSection() {
 
       {active ? (
         <div
-          className="fixed inset-0 z-[80] flex items-end justify-center bg-black/90 sm:items-center sm:p-4"
+          className="fixed inset-0 z-[80] flex items-end justify-center bg-[var(--overlay)] backdrop-blur-[2px] sm:items-center sm:p-4"
           role="dialog"
           aria-modal="true"
           aria-label="Отзыв"
@@ -92,7 +88,7 @@ export function ReviewsSection() {
             className="grid max-h-[92dvh] w-full max-w-5xl overflow-y-auto border border-line bg-bg sm:max-h-[90vh] md:grid-cols-2"
             onClick={(e) => e.stopPropagation()}
           >
-            <div className="relative min-h-[42dvh] bg-black md:min-h-[480px]">
+            <div className="relative min-h-[42dvh] bg-bg-elevated md:min-h-[480px]">
               <Image
                 src={active.image}
                 alt={active.alt}

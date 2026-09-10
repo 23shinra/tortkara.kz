@@ -1,20 +1,30 @@
 import type { Metadata, Viewport } from "next";
-import { Manrope, Unbounded } from "next/font/google";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
-import { MobileDock } from "@/components/MobileDock";
+import { Bebas_Neue, Manrope, Montserrat, Noto_Sans_SC } from "next/font/google";
 import { company } from "@/lib/company";
 import "./globals.css";
 
-const display = Unbounded({
+const display = Montserrat({
   variable: "--font-display",
-  subsets: ["latin", "cyrillic"],
-  weight: ["500", "600", "700"],
+  subsets: ["latin", "cyrillic", "cyrillic-ext"],
+  weight: ["500", "600", "700", "800"],
 });
 
 const body = Manrope({
   variable: "--font-body",
-  subsets: ["latin", "cyrillic"],
+  subsets: ["latin", "cyrillic", "cyrillic-ext"],
+  weight: ["400", "500", "600", "700"],
+});
+
+/** Matches logo wordmark (condensed industrial sans — Bebas Neue) */
+const brand = Bebas_Neue({
+  variable: "--font-brand",
+  subsets: ["latin"],
+  weight: "400",
+});
+
+const cjk = Noto_Sans_SC({
+  variable: "--font-cjk",
+  subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
 });
 
@@ -22,19 +32,19 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   viewportFit: "cover",
-  themeColor: "#0e0f10",
+  themeColor: "#f4f2ec",
 };
 
 export const metadata: Metadata = {
   title: {
-    default: `${company.shortName} — лизинг спецтехники в Казахстане`,
+    default: `${company.shortName} — роторно-буровая техника и сваебойные установки в лизинг`,
     template: `%s · ${company.shortName}`,
   },
   description:
-    "ТОО «Tortkara Machinery» — 5 лет на рынке. Предоставляем наши услуги для вашего бизнеса: лизинг спецтехники и буровых установок в Казахстане. Алматы.",
+    "ТОО «Tortkara Machinery» — 5 лет на рынке. Лизинг роторно-буровой техники и сваебойных установок — новых и б/у: предоплата 30%, срок до 3 лет. Алматы.",
   openGraph: {
-    title: `${company.shortName} — лизинг спецтехники`,
-    description: company.tagline,
+    title: `${company.shortName} — роторно-буровая техника и сваебойные установки в лизинг`,
+    description: company.about,
     locale: "ru_KZ",
     type: "website",
     images: [{ url: "/brand/logo.png" }],
@@ -51,13 +61,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ru" className={`${display.variable} ${body.variable} h-full antialiased`}>
-      <body className="has-mobile-dock flex min-h-full flex-col bg-bg text-text">
-        <Header />
-        <main className="flex-1">{children}</main>
-        <Footer />
-        <MobileDock />
-      </body>
+    <html lang="ru" className={`${display.variable} ${body.variable} ${brand.variable} ${cjk.variable} h-full antialiased`}>
+      <body className="flex min-h-full flex-col bg-bg text-text">{children}</body>
     </html>
   );
 }

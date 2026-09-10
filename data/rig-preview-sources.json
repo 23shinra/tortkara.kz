@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "bauer-bg25",
+    "sourceUrl": "https://equipment.bauer.de/en/drilling-rigs"
+  },
+  {
+    "slug": "bauer-bg26",
+    "sourceUrl": "https://static.global-ce.com/upload/upfs/202301/30/f_1675058827387333.jpg",
+    "sourceLocal": "public/products/bauer-bg26/source-preview.jpg"
+  },
+  {
+    "slug": "bauer-bg30",
+    "sourceUrl": "https://equipment.bauer.de/sites/default/files/styles/og_image/public/2023-10/bauer-maschinen-equipment-drehbohrgeraet-drilling-rig-value-line-kellybohren-bg-30-bt-80.JPG",
+    "sourceLocal": "public/products/bauer-bg30/source-preview.jpg"
+  },
+  {
+    "slug": "bauer-bg36",
+    "sourceUrl": "https://equipment.bauer.de/sites/default/files/2023-10/bauer-maschinen-equipment-drehbohrgeraet-drilling-rig-value-line-kellybohren-bg-36-bt-90.jpg"
+  },
+  {
+    "slug": "sany-sr285",
+    "sourceUrl": "https://sanyglobal-img.sany.com.cn/product/goods/20200922/285-114605.jpg",
+    "sourceLocal": "public/products/sany-sr285/source-preview.jpg"
+  },
+  {
+    "slug": "xcmg-xr1050",
+    "sourceUrl": "https://xcmg.com.ar/product/xrs1050/"
+  },
+  {
+    "slug": "xcmg-xr160",
+    "sourceUrl": "https://tortkara.esl.kz/products/xcmg-xr160/01.jpg"
+  },
+  {
+    "slug": "xcmg-xr200",
+    "sourceUrl": "https://www.machmall.com/images/store/715227/item/8536e9c1fbc39ad358d9669a464c6e0a1658201280.jpg",
+    "sourceLocal": "public/products/xcmg-xr200/source-preview.jpg"
+  },
+  {
+    "slug": "xcmg-xr220",
+    "sourceUrl": "https://www.machmall.com/images/store/357636/item/XR220DII_1755487655946.jpg.webp",
+    "sourceLocal": "public/products/xcmg-xr220/source-preview.jpg"
+  },
+  {
+    "slug": "xcmg-xr240",
+    "sourceUrl": "https://tortkara.esl.kz/products/xcmg-xr240/02.jpg"
+  },
+  {
+    "slug": "xcmg-xr280",
+    "sourceUrl": "https://www.machmall.com/images/store/357636/item/XR%E9%80%9A%E7%94%A8-1.jpg",
+    "sourceLocal": "public/products/xcmg-xr280/source-preview.jpg"
+  },
+  {
+    "slug": "xcmg-xr360",
+    "sourceUrl": "https://www.machmall.com/images/store/357636/item/XR360%20(4).jpg",
+    "sourceLocal": "public/products/xcmg-xr360/source-preview.jpg"
+  },
+  {
+    "slug": "xcmg-xr400",
+    "sourceUrl": "https://www.xcmgmachinery.com/wp-content/uploads/2025/10/XR400E-Drilling-Rig.webp",
+    "sourceLocal": "public/products/xcmg-xr400/source-preview.jpg"
+  }
+]

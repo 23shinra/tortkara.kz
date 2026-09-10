@@ -1,0 +1,381 @@
+.admin-body {
+  margin: 0;
+  min-height: 100dvh;
+  background: #f4f5f7;
+  color: #141618;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+.admin-shell {
+  width: min(1100px, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 1.5rem 0 3rem;
+}
+
+.admin-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.admin-top h1 {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.admin-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.admin-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  min-height: 2.5rem;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid #d0d4d8;
+  background: #fff;
+  color: #141618;
+  font: inherit;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.admin-btn:hover {
+  border-color: #141618;
+}
+
+.admin-btn-primary {
+  background: #e6a800;
+  border-color: #e6a800;
+  color: #004880;
+}
+
+.admin-btn-primary:hover {
+  background: #d49800;
+  border-color: #d49800;
+}
+
+.admin-btn-danger {
+  background: #fff;
+  border-color: #c0392b;
+  color: #c0392b;
+}
+
+.admin-btn-danger:hover {
+  background: #c0392b;
+  color: #fff;
+}
+
+.admin-card {
+  background: #fff;
+  border: 1px solid #e2e5e8;
+  padding: 1.25rem;
+}
+
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.admin-table th,
+.admin-table td {
+  text-align: left;
+  padding: 0.75rem 0.5rem;
+  border-bottom: 1px solid #e8eaed;
+  vertical-align: middle;
+}
+
+.admin-table th {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #5a6168;
+}
+
+.admin-muted {
+  color: #5a6168;
+  font-size: 0.875rem;
+}
+
+.admin-form {
+  display: grid;
+  gap: 1rem;
+}
+
+.admin-form-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 720px) {
+  .admin-form-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.admin-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #5a6168;
+}
+
+.admin-input,
+.admin-textarea,
+.admin-select {
+  width: 100%;
+  min-height: 2.5rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #d0d4d8;
+  background: #fff;
+  font: inherit;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+.admin-textarea {
+  min-height: 5rem;
+  resize: vertical;
+}
+
+.admin-input:focus,
+.admin-textarea:focus,
+.admin-select:focus {
+  outline: 2px solid #00488055;
+  border-color: #004880;
+}
+
+.admin-error {
+  padding: 0.75rem 1rem;
+  background: #fdecea;
+  border: 1px solid #f5c6cb;
+  color: #a12622;
+  font-size: 0.9rem;
+}
+
+.admin-ok {
+  padding: 0.75rem 1rem;
+  background: #e8f6ef;
+  border: 1px solid #b7e0c7;
+  color: #1e6b3a;
+  font-size: 0.9rem;
+}
+
+.admin-login-wrap {
+  min-height: 100dvh;
+  display: grid;
+  place-items: center;
+  padding: 1.5rem;
+}
+
+.admin-login-card {
+  width: min(400px, 100%);
+  background: #fff;
+  border: 1px solid #e2e5e8;
+  padding: 1.75rem;
+}
+
+.admin-login-card h1 {
+  margin: 0 0 0.35rem;
+  font-size: 1.5rem;
+}
+
+.admin-thumbs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 0.75rem;
+}
+
+.admin-thumb {
+  position: relative;
+  border: 1px solid #e2e5e8;
+  background: #f4f5f7;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+}
+
+.admin-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.admin-thumb.is-preview {
+  border-color: #e6a800;
+  box-shadow: 0 0 0 2px #e6a80044;
+}
+
+.admin-thumb-badge {
+  position: absolute;
+  top: 0.35rem;
+  left: 0.35rem;
+  padding: 0.15rem 0.4rem;
+  background: #e6a800;
+  color: #004880;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.admin-thumb-remove {
+  position: absolute;
+  top: 0.35rem;
+  right: 0.35rem;
+  min-height: 1.75rem;
+  padding: 0 0.45rem;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.admin-thumb-actions {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.35rem;
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.65));
+}
+
+.admin-thumb-actions .admin-btn {
+  min-height: 1.75rem;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.7rem;
+}
+
+.admin-photos-block {
+  display: grid;
+  gap: 1rem;
+}
+
+.admin-photos-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.admin-top-left {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.admin-view-toggle {
+  display: inline-flex;
+  border: 1px solid #d0d4d8;
+  flex-shrink: 0;
+}
+
+.admin-view-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.45rem 0.65rem;
+  border: none;
+  background: #fff;
+  color: #5a6168;
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.admin-view-btn + .admin-view-btn {
+  border-left: 1px solid #d0d4d8;
+}
+
+.admin-view-btn.is-active {
+  background: #004880;
+  color: #fff;
+}
+
+.admin-list-preview {
+  width: 56px;
+  height: 42px;
+  object-fit: cover;
+  display: block;
+  border: 1px solid #e2e5e8;
+  background: #f4f5f7;
+}
+
+.admin-list-preview-empty {
+  width: 56px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  border: 1px solid #e2e5e8;
+  background: #f4f5f7;
+  color: #5a6168;
+  font-size: 0.6rem;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.admin-product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.admin-product-tile {
+  border: 1px solid #e2e5e8;
+  background: #fff;
+}
+
+.admin-product-tile-media {
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: #f4f5f7;
+}
+
+.admin-product-tile-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.admin-product-tile-empty {
+  width: 100%;
+  height: 100%;
+  min-height: 120px;
+  display: grid;
+  place-items: center;
+  color: #5a6168;
+  font-size: 0.8rem;
+}
+
+.admin-product-tile-body {
+  padding: 0.75rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.admin-product-tile-body strong {
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+
+.admin-product-tile-body p {
+  margin: 0;
+  font-size: 0.8rem;
+}
